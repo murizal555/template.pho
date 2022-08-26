@@ -4611,7 +4611,11 @@
   .p-xxl-1 {
     padding: 0.25rem !important;
   }
-
+  card.title{
+    text-align: center;
+}card.title{
+    text-align: center;
+}
   .p-xxl-2 {
     padding: 0.5rem !important;
   }
